@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS1,,,2018-11-02 10:42:14,2018-11-02 10:42:15,1.244s,PASSED
+,,,,,,
+Test Cases/TC1,,,2018-11-02 10:42:15,2018-11-02 10:42:15,0.588s,PASSED
+"Statement - expected = ""Test""",,Define Expected Value,2018-11-02 10:42:15,2018-11-02 10:42:15,0.002s,PASSED
